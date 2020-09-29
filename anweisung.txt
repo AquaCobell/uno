@@ -1,0 +1,20 @@
+Kartenformatierung
+mindestens 14 karten empfohlen 60>
+
+Normale Karten
+farbe+ zahl 
+gr = grün
+bl = blau
+ro = rot
+ge = gelb
+
+zbs ge3 / ro9 
+
+Sonderkarten
+farbe + (zusatz)
++2 = ziehe zwei Karten
++a = aussetzen
+
+zbs. ge+2 //ziehe zwei Karten
+     gea //aussetzen
+

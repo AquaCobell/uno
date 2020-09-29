@@ -9,6 +9,8 @@ public class Kartendeck //Klasse welche Zufallskarten aus den Deck zurückgibt.
     //private int kartenanzahl = 0; //Anzahl der bereits gezogenen Karten
     public String deckkarte; //Aktuelle Deckkarte
     
+
+    //Hallo i bims der Hamdi
     //ArrayList befüllen Methode
    
     //public Spieler[] spielerarray;

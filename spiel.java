@@ -8,7 +8,7 @@ class Spiel
     public Kartendeck deck;
     Spieler[] spieler = new Spieler[2];
     
-    
+    //HI
     //Spielvariablen, werden für den Spielablauf gebraucht.
     int spielerindex; //Spieler 1 -> 0 | Spieler 2 ->  1)
     int pluskarte = 0;
